@@ -1,0 +1,2 @@
+AuthorDto{id=1, firstName='Александр', lastName='Пушкин', middleName='Сергеевич', birthDate='6.6.1799'}
+AuthorDto{id=2, firstName='Александр', lastName='Пушкин', middleName='Сергеевич', birthDate='6.6.1799'}
